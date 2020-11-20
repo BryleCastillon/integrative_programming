@@ -23,3 +23,4 @@ $me->addFriend();
 echo  "<br>";
 $me->postStatus();
 ?>
+// index.php
